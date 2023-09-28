@@ -1,5 +1,1 @@
 # Deliverable
-
-prova
-
-NUOVA FEATURE!!!
